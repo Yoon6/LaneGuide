@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LaneGuide</string>
+    <string name="main_title">이 길 맞는교</string>
+    <string name="main_start_button">시작하기</string>
+</resources>

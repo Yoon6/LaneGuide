@@ -1,0 +1,3 @@
+rootProject.name = "LaneGuide"
+include ':app'
+include ':sdk'
